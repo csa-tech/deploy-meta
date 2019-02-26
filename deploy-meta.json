@@ -6,6 +6,12 @@
       "repo": "backend-demo",
       "branch": "master",
       "port": 3010
+    },
+    {
+      "pusher": "GitHub账号", 
+      "repo": "repository name",
+      "branch": "master",
+      "port": 3011
     }
     
 
