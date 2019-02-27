@@ -1,6 +1,11 @@
 {
 	"meta": [
-
+    {
+      "pusher": "你的GitHub账号", 
+      "repo": "repository name",
+      "branch": "master",
+      "port": 3011
+    },
     {
       "pusher": "Ara-yjx", 
       "repo": "backend-demo",
@@ -8,10 +13,10 @@
       "port": 3010
     },
     {
-      "pusher": "GitHub账号", 
-      "repo": "repository name",
+      "pusher": "Ara-yjx", 
+      "repo": "test-deploy",
       "branch": "master",
-      "port": 3011
+      "port": 3012
     }
     
 
