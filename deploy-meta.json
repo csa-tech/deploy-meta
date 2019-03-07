@@ -31,7 +31,7 @@
       "port": 3033
     },{
       "pusher": "jimone1", 
-      "repo": "personal_info",
+      "repo": "backend-personal_Info",
       "branch": "master",
       "port": 3099
     }
