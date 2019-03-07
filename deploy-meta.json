@@ -23,6 +23,12 @@
       "repo": "ride_info",
       "branch": "master",
       "port": 3024
+    },
+    {
+      "pusher": "sansangela", 
+      "repo": "RideList",
+      "branch": "master",
+      "port": 3033
     }
     
 
