@@ -29,11 +29,12 @@
       "repo": "RideList",
       "branch": "master",
       "port": 3033
-    },{
+    },
+    {
       "pusher": "jimone1", 
       "repo": "backend-personal_Info",
       "branch": "master",
-      "port": 3099
+      "port": 3040
     }
   ]
 }
