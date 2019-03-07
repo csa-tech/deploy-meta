@@ -26,7 +26,7 @@
     },
     {
       "pusher": "KevinnZou", 
-      "repo": "ride_info",
+      "repo": "ride_info_back",
       "branch": "master",
       "port": 3024
     },
