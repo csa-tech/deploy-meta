@@ -35,12 +35,6 @@
       "repo": "RideList",
       "branch": "master",
       "port": 3033
-    }，
-     {
-      "pusher": "YumingFei",
-      "repo": "Userinfoindatabase",
-      "branch": "master",
-      "port": 3086
     }
   ]
 }
