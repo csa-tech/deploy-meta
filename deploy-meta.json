@@ -19,8 +19,14 @@
       "port": 3012
     },
     {
+      "pusher": "jimone1", 
+      "repo": "backend-personal_Info",
+      "branch": "master",
+      "port": 3014
+    },
+    {
       "pusher": "KevinnZou", 
-      "repo": "ride_info_back",
+      "repo": "ride_info",
       "branch": "master",
       "port": 3024
     },
@@ -29,12 +35,6 @@
       "repo": "RideList",
       "branch": "master",
       "port": 3033
-    },
-    {
-      "pusher": "jimone1", 
-      "repo": "backend-personal_Info",
-      "branch": "master",
-      "port": 3014
     }
   ]
 }
