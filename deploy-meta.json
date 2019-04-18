@@ -36,11 +36,17 @@
       "branch": "master",
       "port": 3033
     },
-     {
+    {
       "pusher": "yumign",
       "repo": "Userinfoindatabase",
       "branch": "master",
       "port": 3086
+    },
+    {
+      "pusher": "jingxiang4766",
+      "repo": "ride_list",
+      "branch": "master",
+      "port": 3077
     }
   ]
 }
