@@ -1,5 +1,5 @@
 {
-	"meta": [
+    "meta": [
     {
       "pusher": "你的GitHub账号", 
       "repo": "repository name",
@@ -38,7 +38,7 @@
     },
     {
       "pusher": "yumign",
-      "repo": "Userinfoindatabase",
+      "repo": "backend-get_userid",
       "branch": "master",
       "port": 3086
     },
