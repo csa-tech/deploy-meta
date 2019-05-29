@@ -38,7 +38,7 @@
     },
     {
       "pusher": "yumign",
-      "repo": "backend-get_userid",
+      "repo": "backend-get-userid",
       "branch": "master",
       "port": 3086
     },
