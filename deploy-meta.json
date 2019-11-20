@@ -32,13 +32,13 @@
     },
     {
       "pusher": "sansangela", 
-      "repo": "RideList",
+      "repo": "backend-ridelist",
       "branch": "master",
       "port": 3033
     },
     {
       "pusher": "yumign",
-      "repo": "backend-get-userid",
+      "repo": "wechat-login",
       "branch": "master",
       "port": 3086
     },
